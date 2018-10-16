@@ -1,6 +1,14 @@
 #!/usr/bin/env python
 # coding=utf-8
 
+'''
+    File name: limit_service_node.py
+    Author: Ibrahim elouard
+    Date created: 16/10/2018
+    Date last modified: 16/10/2018
+    Python Version: 2.7
+'''
+
 import rospy, time
 from turtlesim.msg import Pose
 from std_msgs.msg import String
