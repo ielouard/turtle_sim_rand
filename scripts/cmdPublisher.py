@@ -2,7 +2,7 @@
 # coding=utf-8
 
 '''
-    File name: limit_service_node.py
+    File name: cmdPublisher.py
     Author: Ibrahim elouard
     Date created: 16/10/2018
     Date last modified: 16/10/2018
